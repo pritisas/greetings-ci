@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/pritisas/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-06)
+
+
+### Features
+
+* add testing to the pipeline ([7b53538](https://github.com/pritisas/greetings-ci/commit/7b53538702c78920c3797d3bc13d75388148b56f))
+
+
+
 # [0.3.0](https://github.com/pritisas/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-06)
 
 

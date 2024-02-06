@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/pritisas/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-06)
+
+
+### Features
+
+* version artifact ([a5ab1eb](https://github.com/pritisas/greetings-ci/commit/a5ab1eb65c72f90ef520d728f9da16334491038b))
+
+
+
 # [0.2.0](https://github.com/pritisas/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-06)
 
 

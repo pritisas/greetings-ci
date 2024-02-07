@@ -68,7 +68,8 @@ jobs:
      - name: run-test
        uses: ./.github/actions/test-action
        with:
-            artifact-version: ${{ github.event.inputs.myVersion || needs.build.outputs.artifact-tag }} arguments-to-print: ${{ github.event.inputs.myValues }}
+            artifact-version: ${{ github.event.inputs.myVersion || needs.build.outputs.artifact-tag }} 
+            arguments-to-print: ${{ github.event.inputs.myValues }}
 
      
      - name: Download candidate artifacts
